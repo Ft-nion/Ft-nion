@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Mario Iván Moreno Reyna 👋
 
-<!--
-**Ft-nion/Ft-nion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Systems Engineering** student at the **Instituto Tecnológico Superior de la Sierra Negra de Ajalpan**, Mexico. I am 22 years old and passionate about technology, programming, and innovative projects.
 
-Here are some ideas to get you started:
+### 🌟 Skills:
+- **Programming Languages**: PHP, JavaScript, C++
+- **Web Development**: HTML, CSS, Bootstrap, Laravel, Filament
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Tools**: Visual Studio Code, Linux (Bash)
+- **Frameworks**: Laravel, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- Developing a **Point of Sale** (POS) system using PHP, Bootstrap, and MySQL
+- Expanding knowledge in **PostgreSQL** and database management
+
+
+### 👯 I’m looking to collaborate on:
+- Web development projects (Frontend & Backend)
+- IoT and embedded systems
+- Open-source initiatives
+
+### 🤔 I’m looking for help with:
+- Optimizing performance for web applications using Laravel
+
+
+
+### ⚡ Fun fact:
+- I love coding with a cup of coffee and exploring new tech trends. When I'm not coding, you can find me playing video games or GYM.
