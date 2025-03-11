@@ -3,7 +3,7 @@
 I'm a **Computer Systems Engineering** student at the **Instituto Tecnológico Superior de la Sierra Negra de Ajalpan**, Mexico. I am 22 years old and passionate about technology, programming, and innovative projects.
 
 ### 🌟 Skills:
-- **Programming Languages**: PHP, JavaScript, C++
+- **Programming Languages**: PHP, JavaScript
 - **Web Development**: HTML, CSS, Bootstrap, Laravel, Filament
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
